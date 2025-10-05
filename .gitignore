@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# OS Cache Files
+.DS_Store
+
+# SQLite/DB files (if any were created)
+*.db
+*.sqlite
